@@ -1,2 +1,2 @@
 # Myapp
-test test DEV MAYAPP
+test test DEV MAYAPP TEST
